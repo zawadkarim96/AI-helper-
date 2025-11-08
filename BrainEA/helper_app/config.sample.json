@@ -1,0 +1,16 @@
+{
+  "mt5WindowTitle": "MetaTrader 5 - Terminal",
+  "signalsFolder": "C:\\Users\\username\\AppData\\Roaming\\MetaQuotes\\Terminal\\{terminal_id}\\MQL5\\Files\\signals",
+  "journalFolder": "C:\\AI_Trading_Brain\\journal",
+  "telegramBotToken": "123456:ABCDEF",
+  "telegramChatId": "123456789",
+  "pollIntervalSeconds": 3,
+  "duplicateMinutes": 5,
+  "screenshotDelaySeconds": 2,
+  "screenshotRegion": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  }
+}

@@ -1,7 +1,0 @@
-# Helper build artifacts
-BrainEA/helper_app/build/*
-!BrainEA/helper_app/build/.gitkeep
-
-# Dotnet publish manifest files
-BrainEA/helper_app/src/bin/
-BrainEA/helper_app/src/obj/
